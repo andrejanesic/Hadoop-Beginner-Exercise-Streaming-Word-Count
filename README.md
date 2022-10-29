@@ -4,4 +4,4 @@ Exercise of using the Streaming API with Hadoop to determine the word count of W
 
 ## Author
 
-<iframe src="https://andrejanesic.com/git-signature.html" frameborder="0"></iframe>
+![Author](https://andrejanesic.com/git-signature.png)
