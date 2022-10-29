@@ -1,6 +1,6 @@
-# Hadoop Streaming Word Count
+# Hadoop Beginner Exercise: Streaming Word Count
 
-Exercise of using the Streaming API with Hadoop to determine the word count of Wikipedia articles.
+Hadoop beginner exercise - using the Streaming API to determine the word count of select Wikipedia articles.
 
 ## Author
 
